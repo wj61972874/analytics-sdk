@@ -1,0 +1,20 @@
+{
+  "name": "analytics-sdk",
+  "version": "1.0.0",
+  "description": "A simple analytics SDK for tracking user events",
+  "main": "src/analytics-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:wj61972874/analytics-sdk.git"
+  },
+  "keywords": [
+    "analytics",
+    "sdk",
+    "tracking"
+  ],
+  "author": "Jay",
+  "license": "ISC"
+}
